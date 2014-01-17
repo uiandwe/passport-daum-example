@@ -15,9 +15,9 @@
   },
   "oauth": {
     "daum": {
-      "DAUM_CONSUMER_KEY": "e74ce883-571e-40dc-801b-c77e02e57051",
-      "DAUM_CONSUMER_SECRET": "bB-B3DeHQK7rk2Xhq13dU4jSNuLhuvShSidl41LHjVQ8vKBZ_TSPSw00",
-      "callbackURL": "https://oauth-c9-uiandwe.c9.io/auth/daum/callback"
+      "DAUM_CONSUMER_KEY": "---- YOUR_CONSUMER_KEY ----",
+      "DAUM_CONSUMER_SECRET": "---- YOUR_CONSUMER_SECRET ----",
+      "callbackURL": "http://localhost:8080/auth/daum/callback"
     }
   }
 }
